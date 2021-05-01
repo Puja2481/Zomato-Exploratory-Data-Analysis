@@ -2,6 +2,8 @@
 
 [![image](https://user-images.githubusercontent.com/56734293/116794493-f423fb00-aaea-11eb-99bd-df7f4a77661e.png)](https://youtu.be/BOQu5E6rZnw "Click to Watch the video")
 
+# Google colab
+https://colab.research.google.com/drive/1tg78TQSKTk9iO2IyJ0QBLGeaX2Eyqq2X?usp=sharing
 
 # System Requirements
 * <b>Os :</b> Windows 10
