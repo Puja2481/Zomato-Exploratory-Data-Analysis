@@ -70,6 +70,8 @@ WordCloud for restaurants
 
 ![image](https://user-images.githubusercontent.com/56734293/116792468-5e826e80-aade-11eb-9bed-14f0de63f720.png)
 
+and much more...
+
 # Author
 
 * **Parnasree Das** - [Linkedin](https://www.linkedin.com/in/parnasree-das-6b0231196/), [GitHub](https://github.com/Puja2481)  
