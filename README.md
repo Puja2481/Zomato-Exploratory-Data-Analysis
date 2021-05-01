@@ -69,4 +69,4 @@ WordCloud for restaurants
 
 # Author
 
-* **Parnasree Das** - [Linkedin](https://www.linkedin.com/in/parnasree-das-6b0231196/), [GitHub](https://github.com/Puja2481) 
+* **Parnasree Das** - [Linkedin](https://www.linkedin.com/in/parnasree-das-6b0231196/), [GitHub](https://github.com/Puja2481)  
